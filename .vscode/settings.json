@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/root/.local/share/virtualenvs/workspace-dqq3IVyd/bin/python",
+    "python.formatting.provider": "yapf",
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+}
